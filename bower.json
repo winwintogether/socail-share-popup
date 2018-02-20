@@ -1,0 +1,8 @@
+{
+    "name": "social-share-popup",
+    "version": "0.0.1",
+	"main": [
+		"dist/needsharebutton.min.js",
+		"dist/needsharebutton.min.css"
+	]
+}
