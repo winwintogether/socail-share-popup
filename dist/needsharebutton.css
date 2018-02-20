@@ -6,14 +6,14 @@
 ***********************************************/
 /* Social icons font
 ***********************************************/
-@font-face {
+/*@font-face {
   font-family: 'social-icons';
   font-weight: normal;
   font-style: normal;
 
-  src: url('font/social.eot?44259375');
-  src: url('font/social.eot?44259375#iefix') format('embedded-opentype'), url('font/social.woff?44259375') format('woff'), url('font/social.ttf?44259375') format('truetype'), url('font/social.svg?44259375#social') format('svg');
-}
+  src: url('fonts/social.eot?44259375');
+  src: url('fonts/social.eot?44259375#iefix') format('embedded-opentype'), url('font/social.woff?44259375') format('woff'), url('font/social.ttf?44259375') format('truetype'), url('font/social.svg?44259375#social') format('svg');
+}*/
 /* Share button
 ***********************************************/
 .need-share-button {
